@@ -1,0 +1,9 @@
+{
+  "name": "OhM Assistant",
+  "description": "A high-performance multimodal AI assistant capable of real-time voice interaction, image generation, and grounded text answers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
